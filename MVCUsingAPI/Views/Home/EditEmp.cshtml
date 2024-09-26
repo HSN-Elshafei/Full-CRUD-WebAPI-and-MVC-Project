@@ -1,0 +1,30 @@
+﻿@model MVCUsingAPI.Models.AddEmployee
+
+@{
+    ViewBag.Title = "Edit Employee";
+}
+
+<h2 class="text-center p-3">Edit Employee Details</h2>
+
+<form asp-action="EditEmp" asp-controller="Home" method="post" class="p-4 bg-light rounded shadow-sm">
+    <input type="hidden" asp-for="EmpId" />
+
+    <div class="mb-3 form-group">
+        <label asp-for="EmpName" class="form-label"><i class="fas fa-user-edit"></i> Employee Name</label>
+        <input asp-for="EmpName" class="form-control" placeholder="Enter updated employee name" />
+        <span asp-validation-for="EmpName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 form-group" hidden>
+        <label asp-for="DeptID" class="form-label"><i class="fas fa-building"></i> Department ID</label>
+        <select asp-for="DeptID" class="form-control" asp-items="@(new SelectList(ViewBag.DeptEmps, "Value", "Text"))">
+            <option value="">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="DeptID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group text-center p-3">
+        <button type="submit" class="btn btn-primary px-4"><i class="fas fa-save"></i> Save Changes</button>
+        <a href="@Url.Action("Employees", "Home")" class="btn btn-secondary px-4"><i class="fas fa-times"></i> Cancel</a>
+    </div>
+</form>

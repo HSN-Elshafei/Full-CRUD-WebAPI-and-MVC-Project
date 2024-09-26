@@ -1,0 +1,81 @@
+﻿@model MVCUsingAPI.Models.EmployeeProject
+
+@{
+    ViewBag.Title = "Assign Projects";
+}
+
+<h2 class="text-center p-3 bg-primary text-white rounded">Assign Projects to @Model.EmployeeName</h2>
+
+<form asp-action="AssignProjects" method="post" class="container mt-4 p-4 bg-light shadow-sm rounded">
+    <!-- Hidden fields for EmployeeId and EmployeeName -->
+    <input type="hidden" asp-for="EmployeeId" />
+    <input type="hidden" asp-for="EmployeeName" />
+
+    <!-- Employee Name Display (Read-only) -->
+    <div class="form-group row mb-4">
+        <label class="col-sm-2 col-form-label fw-bold text-black">Employee Name:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control-plaintext" value="@Model.EmployeeName" readonly aria-label="Employee Name" />
+        </div>
+    </div>
+
+    <!-- Projects List -->
+    <div class="form-group row mb-4">
+        <label class="col-sm-2 col-form-label fw-bold text-black">Projects:</label>
+        <div class="col-sm-10">
+            <ul class="list-group border rounded">
+                @for (var i = 0; i < Model.Projects.Count; i++)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center border-bottom">
+                        <div class="d-flex align-items-center">
+                            <input type="hidden" asp-for="Projects[i].ProjectId" />
+                            <input type="hidden" asp-for="Projects[i].ProjectName" />
+                            <span class="fw-bold me-2">@Model.Projects[i].ProjectName</span>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <div class="form-check form-switch me-3">
+                                <input class="form-check-input" type="checkbox" asp-for="Projects[i].IsAssigned" id="project-@i" aria-label="Toggle Assignment for @Model.Projects[i].ProjectName" />
+                                
+                            </div>
+                            <!-- Edit Project Button -->
+                            <a class="btn btn-sm btn-outline-primary" asp-controller="Project" asp-action="Edit" asp-route-id="@Model.Projects[i].ProjectId" title="Edit Project">
+                                <i class="fa-solid fa-pen"></i>
+                            </a>
+                            <a onclick="return confirm('Are you sure you want to delete the department: @Model.Projects[i].ProjectName?');" class="btn btn-sm btn-outline-danger m-lg-1" asp-controller="Project" asp-action="Delete" asp-route-id="@Model.Projects[i].ProjectId" title="Delete Project">
+                                <i class="fa-solid fa-trash"></i>
+                            </a>
+                            <!-- "Delete" button (within form for POST) -->
+                            
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <!-- Submit and Cancel Buttons -->
+    <div class="form-group row text-center">
+        <div class="col-sm-12">
+            <button type="submit" class="btn btn-success btn-lg me-3" data-bs-toggle="tooltip" data-bs-placement="top" title="Save Changes">
+                <i class="fa-solid fa-check-circle"></i> Save Changes
+            </button>
+            <a href="@Url.Action("Index", "Employee")" class="btn btn-secondary btn-lg" data-bs-toggle="tooltip" data-bs-placement="top" title="Cancel">
+                <i class="fa-solid fa-times-circle"></i> Cancel
+            </a>
+            <!-- Add Project Button -->
+            <a href="@Url.Action("Create", "Project")" class="btn btn-primary btn-lg ms-3" data-bs-toggle="tooltip" data-bs-placement="top" title="Add New Project">
+                <i class="fa-solid fa-plus-circle"></i> Add Project
+            </a>
+        </div>
+    </div>
+</form>
+
+<!-- Initialize Bootstrap tooltips -->
+@section Scripts {
+    <script>
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl)
+        })
+    </script>
+}

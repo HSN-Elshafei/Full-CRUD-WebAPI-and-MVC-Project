@@ -1,0 +1,25 @@
+﻿@model MVCUsingAPI.Models.AddEmployee
+
+@{
+    ViewBag.Title = "Create Employee";
+}
+
+<h2 class="text-center p-3">Create New Employee</h2>
+
+<form asp-action="CreateEmp" asp-controller="Home" method="post" class="p-4 bg-light rounded shadow-sm">
+    <div class="mb-3 form-group">
+        <label asp-for="EmpName" class="form-label"><i class="fas fa-user"></i> Employee Name</label>
+        <input asp-for="EmpName" class="form-control" placeholder="Enter employee name" />
+        <span asp-validation-for="EmpName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label asp-for="DeptID" class="form-label"><i class="fas fa-building"></i> Department ID</label>
+        <input asp-for="DeptID" class="form-control" value="@ViewBag.DepartmentID" readonly hidden />
+    </div>
+
+    <div class="form-group text-center p-3">
+        <button type="submit" class="btn btn-success px-4"><i class="fas fa-plus-circle"></i> Create Employee</button>
+        <a href="@Url.Action("Employees", "Home")" class="btn btn-secondary px-4"><i class="fas fa-times"></i> Cancel</a>
+    </div>
+</form>

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEC2E-91EA-4F6B-B39D-A9A3FCFED793}|webAPIDay_2\\webAPIDay_2.csproj|e:\\iti\\content\\web api\\lab\\webapiday_2\\webapiday_2\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEC2E-91EA-4F6B-B39D-A9A3FCFED793}|webAPIDay_2\\webAPIDay_2.csproj|solutionrelative:webapiday_2\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEC2E-91EA-4F6B-B39D-A9A3FCFED793}|webAPIDay_2\\webAPIDay_2.csproj|e:\\iti\\content\\web api\\lab\\webapiday_2\\webapiday_2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEC2E-91EA-4F6B-B39D-A9A3FCFED793}|webAPIDay_2\\webAPIDay_2.csproj|solutionrelative:webapiday_2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEC2E-91EA-4F6B-B39D-A9A3FCFED793}|webAPIDay_2\\webAPIDay_2.csproj|e:\\iti\\content\\web api\\lab\\webapiday_2\\webapiday_2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEC2E-91EA-4F6B-B39D-A9A3FCFED793}|webAPIDay_2\\webAPIDay_2.csproj|solutionrelative:webapiday_2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\webAPIDay_2\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "webAPIDay_2\\Controllers\\ProjectController.cs",
+              "ToolTip": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\webAPIDay_2\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "webAPIDay_2\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:04:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\webAPIDay_2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "webAPIDay_2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\webAPIDay_2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "webAPIDay_2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAIwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:04:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\webAPIDay_2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "webAPIDay_2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\ITI\\Content\\Web API\\Lab\\webAPIDay_2\\webAPIDay_2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "webAPIDay_2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:03:37.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

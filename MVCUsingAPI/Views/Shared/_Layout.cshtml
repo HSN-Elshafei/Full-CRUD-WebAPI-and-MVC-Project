@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyMVCApp</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Custom Stylesheets -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MVCDay_7.styles.css" asp-append-version="true" />
+    <!-- FontAwesome for Icons -->
+    <script src="https://kit.fontawesome.com/7d445aa827.js" crossorigin="anonymous"></script>
+
+    <!-- Meta tags for accessibility and SEO -->
+    <meta name="description" content="A sleek MVC application with a responsive design and user-friendly layout.">
+    <meta name="keywords" content="MVC, Bootstrap, Dark Mode, FontAwesome, Responsive Design">
+</head>
+
+<body class="d-flex flex-column min-vh-100 bg-dark text-white-50">
+
+    <!-- Header with Navbar -->
+    <header class="sticky-top">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+            <div class="container-fluid">
+                <!-- Brand with Icon -->
+                <a class="navbar-brand" href="#">
+                    <i class="fas fa-home"></i> MyMVCApp
+                </a>
+
+                <!-- Toggler for Mobile View -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Navbar Links -->
+                <div class="collapse navbar-collapse" id="navbarMenu">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#"><i class="fas fa-home"></i> Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-cogs"></i> Features</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-dollar-sign"></i> Pricing</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-info-circle"></i> About</a>
+                        </li>
+                        <!-- Dropdown for More Options -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="fas fa-bars"></i> More
+                            </a>
+                            <ul class="dropdown-menu bg-secondary border-0" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item text-light" href="#">Action</a></li>
+                                <li><a class="dropdown-item text-light" href="#">Another Action</a></li>
+                                <li><a class="dropdown-item text-light" href="#">Something Else</a></li>
+                                <li><hr class="dropdown-divider bg-light"></li>
+                                <li><a class="dropdown-item text-light" href="#">Separated Link</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                    <!-- Search Form -->
+                    <form class="d-flex">
+                        <input class="form-control me-2 bg-secondary text-white border-light" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-light" type="submit">
+                            <i class="fas fa-search"></i> Search
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content Container -->
+    <div class="container flex-grow-1 py-4">
+        <main role="main">
+            <!-- RenderBody for Dynamic Content -->
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Sticky Footer -->
+    <footer id="sticky-footer" class="bg-secondary text-light mt-auto py-4 shadow-lg">
+        <div class="container text-center">
+            <small>&copy; 2024 Your Company | Powered by <i class="fas fa-code"></i> &amp; Bootstrap</small>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

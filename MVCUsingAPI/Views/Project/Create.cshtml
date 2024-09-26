@@ -1,0 +1,27 @@
+﻿@model MVCUsingAPI.Models.AddProject
+
+@{
+    ViewBag.Title = "Create Project";
+}
+
+<h2 class="text-center p-3 bg-primary text-white rounded">Create Project</h2>
+
+<form asp-action="Create" asp-controller="Project" method="post" class="shadow-lg p-4 bg-light rounded">
+    <!-- Employee Name Field -->
+    <div class="mb-4 form-group">
+        <label asp-for="ProjName" class="form-label fw-bold"></label>
+        <input asp-for="ProjName" class="form-control" placeholder="Enter Employee Name" />
+        <span asp-validation-for="ProjName" class="text-danger"></span>
+    </div>
+
+
+    <!-- Submit and Cancel Buttons -->
+    <div class="text-center">
+        <button type="submit" class="btn btn-success btn-lg me-3">
+            <i class="fa-solid fa-plus-circle"></i> Create
+        </button>
+        <a href="@Url.Action("AssignProjects", "Employee")" class="btn btn-secondary btn-lg">
+            <i class="fa-solid fa-times-circle"></i> Cancel
+        </a>
+    </div>
+</form>

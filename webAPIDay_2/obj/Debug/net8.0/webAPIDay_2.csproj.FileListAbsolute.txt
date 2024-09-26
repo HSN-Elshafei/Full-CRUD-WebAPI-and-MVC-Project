@@ -1,0 +1,274 @@
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\appsettings.Development.json
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\appsettings.json
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.exe
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.deps.json
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.runtimeconfig.json
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.pdb
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Azure.Core.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Azure.Identity.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Humanizer.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.CodeDom.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Memory.Data.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Text.Json.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.csproj.AssemblyReference.cache
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.AssemblyInfoInputs.cache
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.AssemblyInfo.cs
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.csproj.CoreCompileInputs.cache
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.MvcApplicationPartsAssemblyInfo.cs
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets.build.json
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets.development.json
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.webAPIDay_2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.build.webAPIDay_2.props
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webAPIDay_2.props
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webAPIDay_2.props
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\scopedcss\bundle\webAPIDay_2.styles.css
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDa.C158082E.Up2Date
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.dll
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\refint\webAPIDay_2.dll
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.pdb
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.genruntimeconfig.cache
+D:\c#\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\ref\webAPIDay_2.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.csproj.AssemblyReference.cache
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.AssemblyInfoInputs.cache
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.AssemblyInfo.cs
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.csproj.CoreCompileInputs.cache
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\refint\webAPIDay_2.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.pdb
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\appsettings.Development.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\appsettings.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.exe
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.deps.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.runtimeconfig.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\webAPIDay_2.pdb
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Azure.Core.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Azure.Identity.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Humanizer.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.CodeDom.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Text.Json.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets.build.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets.development.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.webAPIDay_2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.build.webAPIDay_2.props
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webAPIDay_2.props
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webAPIDay_2.props
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\scopedcss\bundle\webAPIDay_2.styles.css
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDa.C158082E.Up2Date
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\webAPIDay_2.genruntimeconfig.cache
+E:\ITI\Content\Web API\Lab\webAPIDay_2\webAPIDay_2\obj\Debug\net8.0\ref\webAPIDay_2.dll
